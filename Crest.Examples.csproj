@@ -60,15 +60,25 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.22f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <Compile Include="Assets\FPCSwimmer\Crest\Crest-Examples\Shared\Scripts\SimpleAutomation.cs" />
+    <Compile Include="Assets\FPCSwimmer\Crest\Crest-Examples\Shared\Scripts\TimedDestroy.cs" />
+    <Compile Include="Assets\FPCSwimmer\Crest\Crest-Examples\Shared\Scripts\CamController.cs" />
+    <Compile Include="Assets\FPCSwimmer\Crest\Crest-Examples\Shared\Scripts\UnderwaterEnvironmentalLighting.cs" />
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
     <Compile Include="Assets\FPCSwimmer\Crest\Crest-Examples\Shared\Scripts\Collision\OceanSampleHeightDemo.cs" />
     <Compile Include="Assets\FPCSwimmer\Crest\Crest-Examples\Shared\Scripts\RandomMotion.cs" />
     <Compile Include="Assets\FPCSwimmer\Crest\Crest-Examples\Shared\Scripts\Collision\OceanSampleHeightEvents.cs" />
     <Compile Include="Assets\FPCSwimmer\Crest\Crest-Examples\Shared\Scripts\Collision\OceanSampleDisplacementDemo.cs" />
     <Compile Include="Assets\FPCSwimmer\Crest\Crest-Examples\Shared\Scripts\Sleeper.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\FPCSwimmer\Crest\Crest-Examples\Shared\Scripts\SimpleAutomation.cs" />
     <Compile Include="Assets\FPCSwimmer\Crest\Crest-Examples\Shared\Scripts\TimedDestroy.cs" />
     <Compile Include="Assets\FPCSwimmer\Crest\Crest-Examples\Shared\Scripts\CamController.cs" />
     <Compile Include="Assets\FPCSwimmer\Crest\Crest-Examples\Shared\Scripts\UnderwaterEnvironmentalLighting.cs" />
+=======
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\FPCSwimmer\Crest\Crest-Examples\Crest.Examples.asmdef" />

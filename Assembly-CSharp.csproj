@@ -60,6 +60,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.22f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\RequestCaptureFlow.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Firebase\StartCrashlytics.cs" />
     <Compile Include="Assets\FPCSwimmer\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
@@ -260,11 +261,70 @@
     <None Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Shaders\Wall.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\ButtonGlow.shader" />
+=======
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\CameraRefocus.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
+    <Compile Include="Assets\FPCSwimmer\Core\Scripts\Utils\FollowPlayer.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\ParticleSystemDestroyer.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Characters\RollerBall\Scripts\Ball.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\ActivateTrigger.cs" />
+    <Compile Include="Assets\FPCSwimmer\Core\Scriptables\Sounds\WaterSoundsCollection.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\ObjectResetter.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\LerpControlledBob.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" />
+    <Compile Include="Assets\FPCSwimmer\Core\Scripts\FPCSwimmerEditor.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\DynamicShadowSettings.cs" />
+    <Compile Include="Assets\FPCSwimmer\Core\Scripts\FPCSwimmer.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\WaypointProgressTracker.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\SmoothFollow.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\AutoMobileShaderSwitch.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\FollowTarget.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
+    <Compile Include="Assets\FPCSwimmer\Core\Scriptables\Sounds\SoundsCollection.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\DragRigidbody.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\SimpleActivatorMenu.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\FPSCounter.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\WaypointCircuit.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Characters\RollerBall\Scripts\BallUserControl.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\AutoMoveAndRotate.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\ForcedReset.cs" />
+    <Compile Include="Assets\FPCSwimmer\Core\Scripts\Utils\ReflectionsToOceanMaterial.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\TimedObjectActivator.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\SimpleMouseRotator.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
+    <Compile Include="Assets\FPCSwimmer\Core\Scripts\UnderWaterCustomEffect.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Camera Scripts\MouseLook.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\FOVKick.cs" />
+    <Compile Include="Assets\FPCSwimmer\SunMoonSky\Scripts\SunMoonCycle.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\PlatformSpecificContent.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
+    <Compile Include="Assets\FPCSwimmer\Core\Scripts\UnderWaterDetector.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\CurveControlledBob.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\Utility\TimedObjectDestructor.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
+    <Compile Include="Assets\FPCSwimmer\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
+    <Compile Include="Assets\FPCSwimmer\SunMoonSky\Scripts\SunCycle.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\Resources\UpdateDynWaves.compute" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\AnimWavesAddHeightFromGeometry.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\GerstnerShared.hlsl" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\FoamAddFromVertCol.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\Misc\OceanProxy.shader" />
+<<<<<<< HEAD
     <None Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Materials\SelectivePassthrough.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\AnimWavesAddFromTex.shader" />
     <None Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Materials\SelectivePassthroughSoft.shader" />
@@ -280,6 +340,15 @@
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\AnimWavesSetHeightToGeometry.shader" />
     <None Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Materials\BackgroundColor.shader" />
     <None Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Materials\FatFingers.shader" />
+=======
+    <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\AnimWavesAddFromTex.shader" />
+    <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\FoamAddFromTex.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanFoam.hlsl" />
+    <None Include="Assets\FPCSwimmer\README.txt" />
+    <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\DynWavesSphereWaterInteraction.shader" />
+    <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\AnimWavesSetHeightToGeometry.shader" />
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\FlowAddFlowMap.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\FullScreenTriangle.hlsl" />
@@ -288,11 +357,15 @@
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanHelpersNew.hlsl" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\Underwater\UnderwaterCurtain.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\Resources\UpdateShadow.compute" />
+<<<<<<< HEAD
     <None Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Shaders\InvisibleOccluder.shader" />
     <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\OculusSampleTrainPropsShader.shader" />
     <None Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Materials\ToyCubeWithOutline.shader" />
     <None Include="Assets\FPCSwimmer\Third-Party Notices.txt" />
     <None Include="Assets\Oculus\SampleFramework\Core\Locomotion\Materials\ColumnGlow.shader" />
+=======
+    <None Include="Assets\FPCSwimmer\Third-Party Notices.txt" />
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
     <None Include="Assets\FPCSwimmer\Crest\Crest\Textures\Caustics\SOURCE.txt" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\DynWavesObjectInteraction.shader" />
     <None Include="Assets\FPCSwimmer\SunMoonSky\Shaders\MoonBehindEverything.shader" />
@@ -303,11 +376,15 @@
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\Resources\OceanDepths.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\AnimWavesGerstnerBatchGeometry.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\Underwater\UnderwaterShared.hlsl" />
+<<<<<<< HEAD
     <None Include="Assets\Oculus\SampleFramework\Core\Video\Shaders\Multiview Stereo.shader" />
     <None Include="Assets\Oculus\SampleFramework\Core\DebugUI\Fonts\Montserrat\OFL.txt" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Textures\WaveNormals\SOURCE.TXT" />
     <None Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas\Shaders\UI Default Correct.shader" />
     <None Include="Assets\Oculus\SampleFramework\Core\CustomHands\Shaders\Hands_01.shader" />
+=======
+    <None Include="Assets\FPCSwimmer\Crest\Crest\Textures\WaveNormals\SOURCE.TXT" />
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanNormalMapping.hlsl" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\Resources\ClipSurfaceIncludeArea.shader" />
@@ -325,7 +402,10 @@
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\Resources\OceanDepthsCache.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanVertHelpers.hlsl" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\Resources\ShapeCombine.compute" />
+<<<<<<< HEAD
     <None Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Shaders\OculusSampleAlphaHandOutline.shader" />
+=======
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\Resources\ClipSurfaceRemoveAreaTexture.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\Resources\QueryDisplacements.compute" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
@@ -333,14 +413,19 @@
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanHelpersDriven.hlsl" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\AnimWavesWaveParticle.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\GPUNoise\SOURCE.txt" />
+<<<<<<< HEAD
     <None Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Materials\GlowEffect.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\Resources\QueryFlow.compute" />
     <None Include="Assets\Oculus\Voice\Features\Telemetry\Plugins\SDKTelemetry.dll" />
+=======
+    <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\Resources\QueryFlow.compute" />
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\GPUNoise\GPUNoise.hlsl" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\Resources\ShapeCombine.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\Resources\ClipSurfaceConvexHull.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanHelpers.hlsl" />
+<<<<<<< HEAD
     <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\OculusSampleTrainSmokeShader.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\Underwater\UnderwaterMeniscus.shader" />
     <None Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas\Shaders\UI Prerendered Opaque.shader" />
@@ -365,11 +450,27 @@
     <None Include="Assets\Oculus\SampleFramework\Core\CustomHands\Shaders\Hands_02.shader" />
     <None Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Shaders\GlassMask.shader" />
     <None Include="Assets\Oculus\SampleFramework\Core\CustomHands\Materials\Hands_DiffBump.shader" />
+=======
+    <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\Underwater\UnderwaterMeniscus.shader" />
+    <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanSurfaceAlpha.shader" />
+    <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\Resources\ClearToBlack.compute" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanEmission.hlsl" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\DynWavesAddBump.shader" />
+    <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanConstants.hlsl" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\Resources\DynWavesDampenCircle.shader" />
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\Resources\UpdateFoam.compute" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputs\AnimWavesRemoveGeometry.shader" />
     <None Include="Assets\FPCSwimmer\Crest\Crest\Shaders\OceanInputsDriven.hlsl" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+<<<<<<< HEAD
     <None Include="Assets\Oculus\SampleFramework\license.txt" />
+=======
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1252,14 +1353,24 @@
       <HintPath>Library\ScriptAssemblies\Unity.XR.CoreUtils.dll</HintPath>
       <Private>False</Private>
     </Reference>
+<<<<<<< HEAD
     <Reference Include="Unity.XR.OpenXR">
       <HintPath>Library\ScriptAssemblies\Unity.XR.OpenXR.dll</HintPath>
       <Private>False</Private>
     </Reference>
+=======
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
       <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
       <Private>False</Private>
     </Reference>
+<<<<<<< HEAD
+=======
+    <Reference Include="Unity.XR.OpenXR">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.OpenXR.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
     <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport">
       <HintPath>Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
       <Private>False</Private>
@@ -1414,6 +1525,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ProjectReference Include="Oculus.Interaction.OVR.Editor.csproj">
       <Project>{0EAB5B38-39FD-6703-08EC-9293F0BE7BA9}</Project>
       <Name>Oculus.Interaction.OVR.Editor</Name>
@@ -1522,10 +1634,13 @@
       <Project>{251490BE-B7EB-75EA-F691-0A1CD67A13C6}</Project>
       <Name>Oculus.LipSync</Name>
     </ProjectReference>
+=======
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
     <ProjectReference Include="Crest.csproj">
       <Project>{686D9154-214A-01AA-71A3-CD1B9FE03873}</Project>
       <Name>Crest</Name>
     </ProjectReference>
+<<<<<<< HEAD
     <ProjectReference Include="Meta.Voice.Samples.Dictation.csproj">
       <Project>{CB0F1254-FDA8-3899-0256-4D8F85CC4EAD}</Project>
       <Name>Meta.Voice.Samples.Dictation</Name>
@@ -1582,10 +1697,13 @@
       <Project>{639654E5-7F2F-6E2A-5475-E213F2F638DB}</Project>
       <Name>Oculus.VR.Editor</Name>
     </ProjectReference>
+=======
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj">
       <Project>{B589939F-B99A-C0D9-BB73-BCEB897CE955}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator</Name>
     </ProjectReference>
+<<<<<<< HEAD
     <ProjectReference Include="Meta.VoiceSDK.Mic.Other.csproj">
       <Project>{0D504619-C254-11AC-B903-4E82264474C1}</Project>
       <Name>Meta.VoiceSDK.Mic.Other</Name>
@@ -1594,6 +1712,8 @@
       <Project>{0ED809FC-9319-8772-81A2-22A3CE84EC2E}</Project>
       <Name>Meta.WitAi.Editor</Name>
     </ProjectReference>
+=======
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj">
       <Project>{C0F7AAED-C5DD-4A4F-B547-EFDA6F1DC90C}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</Name>
@@ -1602,6 +1722,7 @@
       <Project>{35428A1B-235D-1EEF-5098-20104EA254DD}</Project>
       <Name>Crest.Examples</Name>
     </ProjectReference>
+<<<<<<< HEAD
     <ProjectReference Include="Meta.WitAi.Conduit.Editor.csproj">
       <Project>{495A3235-1BE4-586B-B620-363CF911CD66}</Project>
       <Name>Meta.WitAi.Conduit.Editor</Name>
@@ -1626,10 +1747,13 @@
       <Project>{0804451D-9C7C-353B-1269-F70CDDA7557F}</Project>
       <Name>Oculus.Interaction.Samples.Editor</Name>
     </ProjectReference>
+=======
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj">
       <Project>{5C1D52E2-D411-1E01-7924-8DD2FF0D2BB0}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor</Name>
     </ProjectReference>
+<<<<<<< HEAD
     <ProjectReference Include="Meta.Voice.Hub.Runtime.csproj">
       <Project>{487D0E89-B856-EAE9-4E3B-21A60BC3222F}</Project>
       <Name>Meta.Voice.Hub.Runtime</Name>
@@ -1646,6 +1770,8 @@
       <Project>{49726CD1-BC36-F52B-96EB-697B36586372}</Project>
       <Name>Meta.WitAI.Lib.Editor</Name>
     </ProjectReference>
+=======
+>>>>>>> 25307535a0bad6ca6c3334dfcee13d79b2ebb40d
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
