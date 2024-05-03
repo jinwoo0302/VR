@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{71940062-0DA6-87B8-0F22-B45B611CB2DE}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9fc16fd9-058a-400e-8b8f-a8acd396d6dc" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mymeen/Desktop/UnityWorkSpace/VRSwimming/Assets/FPCSwimmer/Core/Scripts/FPCSwimmer.cs" relfile="Assets/FPCSwimmer/Core/Scripts/FPCSwimmer.cs" line="464" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FPCSwimmer/Core/Scripts/FPCSwimmer.cs">
+    <Files>
+      <File FileName="Assets/FPCSwimmer/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs" />
+      <File FileName="Assets/FPCSwimmer/README.txt" />
+      <File FileName="Assets/FPCSwimmer/Crest/Crest/Scripts/OceanRenderer.cs" />
+      <File FileName="Assets/FPCSwimmer/Core/Scripts/FPCSwimmer.cs" Line="522" Column="1" />
+      <File FileName="Assets/FPCSwimmer/Core/Scripts/UnderWaterDetector.cs" Line="84" Column="10" />
+      <File FileName="Assets/FPCSwimmer/Core/Scripts/FPCSwimmerEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/FPCSwimmer/Core/Scripts/UnderWaterCustomEffect.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VRSwimming" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FPCSwimmer" expanded="True">
+                <Node name="Core" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="Crest" expanded="True">
+                  <Node name="Crest" expanded="True">
+                    <Node name="Scripts" expanded="True">
+                      <Node name="Helpers" selected="True" />
+                      <Node name="LodData" expanded="True">
+                        <Node name="Settings" expanded="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="Standard Assets" expanded="True">
+                  <Node name="CrossPlatformInput" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
